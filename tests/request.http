@@ -1,0 +1,12 @@
+
+### GET request to /
+GET http://localhost:8000/
+
+
+### GET request to /about
+GET http://localhost:8000/about
+
+
+### GET request to /nothing
+GET http://localhost:8000/nothing
+
